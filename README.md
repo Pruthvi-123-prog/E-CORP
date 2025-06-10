@@ -31,7 +31,7 @@ A modern, secure authentication system featuring Zero-Knowledge Proofs (ZKP) and
     </td>
     <td align="center">
       <a href="https://github.com/">
-        <img src="https://github.com/ghost.png" width="100px;" alt="Muzammil Ahmed Khan"/>
+        <img src="https://avatars.githubusercontent.com/u/151755664?v=4" width="100px;" alt="Muzammil Ahmed Khan"/>
         <br />
         <sub><b>Muzammil Ahmed Khan</b></sub>
       </a>
